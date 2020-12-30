@@ -1,2 +1,6 @@
 # Introduction-to-Blockchain-Technology-Cryptocurrency-and-Beyond
 The topics to be covered in the repository will range from preliminaries, basic cryptographic primitives, distributed algorithms, blockchain basics, bitcoin and mining mechanisms, smart contract programming, and several real life case studies. The repository features theory lectures as well as hands-on laboratory session on the development of various blockchain-based systems to solve real-world problems.
+
+# Introduction
+Blockchain over recent years has been extolled as a revolutionary technology. Since the pioneer work in 2008, researchers have spent countless hours exploring its enormous potential, and today this new technology has become a source of new hope with its broad spectrum of applications. Examples include Supply-Chain, Insurance, KYC, E-voting, Land-Registry, Financial Services, IoT security, Healthcare, Copyright Protection, Smart Agriculture, E-governance and many more. A new addition to the power of blockchain technology comes with the support of smart contracts, an executable codes on blockchain, written in high-level turing complete language. The role of smart contract is to remove all intermediary untrusted third parties between the participating members and to automatically execute and enforce the terms of agreement between them.
+

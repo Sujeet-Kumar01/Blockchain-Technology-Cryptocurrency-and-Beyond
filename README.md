@@ -1,0 +1,2 @@
+# Introduction-to-Blockchain-Technology-Cryptocurrency-and-Beyond
+The topics to be covered in the repository will range from preliminaries, basic cryptographic primitives, distributed algorithms, blockchain basics, bitcoin and mining mechanisms, smart contract programming, and several real life case studies. The repository features theory lectures as well as hands-on laboratory session on the development of various blockchain-based systems to solve real-world problems.
